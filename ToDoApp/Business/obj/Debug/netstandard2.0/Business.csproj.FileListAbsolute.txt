@@ -1,0 +1,16 @@
+D:\ATL\ToDoApp\ToDoApp\Business\bin\Debug\netstandard2.0\Business.deps.json
+D:\ATL\ToDoApp\ToDoApp\Business\bin\Debug\netstandard2.0\Business.dll
+D:\ATL\ToDoApp\ToDoApp\Business\bin\Debug\netstandard2.0\Business.pdb
+D:\ATL\ToDoApp\ToDoApp\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+D:\ATL\ToDoApp\ToDoApp\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+D:\ATL\ToDoApp\ToDoApp\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+D:\ATL\ToDoApp\ToDoApp\Business\obj\Debug\netstandard2.0\Business.dll
+D:\ATL\ToDoApp\ToDoApp\Business\obj\Debug\netstandard2.0\Business.pdb
+D:\ATL\ToDoApp\ToDoApp\Business\bin\Debug\netstandard2.0\Core.dll
+D:\ATL\ToDoApp\ToDoApp\Business\bin\Debug\netstandard2.0\DataAccess.dll
+D:\ATL\ToDoApp\ToDoApp\Business\bin\Debug\netstandard2.0\Entities.dll
+D:\ATL\ToDoApp\ToDoApp\Business\bin\Debug\netstandard2.0\Core.pdb
+D:\ATL\ToDoApp\ToDoApp\Business\bin\Debug\netstandard2.0\DataAccess.pdb
+D:\ATL\ToDoApp\ToDoApp\Business\bin\Debug\netstandard2.0\Entities.pdb
+D:\ATL\ToDoApp\ToDoApp\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+D:\ATL\ToDoApp\ToDoApp\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache

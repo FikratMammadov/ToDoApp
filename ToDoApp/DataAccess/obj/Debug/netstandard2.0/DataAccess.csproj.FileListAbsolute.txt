@@ -1,0 +1,14 @@
+D:\ATL\ToDoApp\ToDoApp\DataAccess\bin\Debug\netstandard2.0\Core.dll
+D:\ATL\ToDoApp\ToDoApp\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+D:\ATL\ToDoApp\ToDoApp\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+D:\ATL\ToDoApp\ToDoApp\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+D:\ATL\ToDoApp\ToDoApp\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+D:\ATL\ToDoApp\ToDoApp\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+D:\ATL\ToDoApp\ToDoApp\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+D:\ATL\ToDoApp\ToDoApp\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+D:\ATL\ToDoApp\ToDoApp\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+D:\ATL\ToDoApp\ToDoApp\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+D:\ATL\ToDoApp\ToDoApp\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\ATL\ToDoApp\ToDoApp\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+D:\ATL\ToDoApp\ToDoApp\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+D:\ATL\ToDoApp\ToDoApp\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb

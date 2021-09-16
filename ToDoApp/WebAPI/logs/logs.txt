@@ -1,0 +1,143 @@
+2021-09-16 15:44:05.271 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-16 15:44:05.307 +04:00 [INF] Hosting environment: Development
+2021-09-16 15:44:05.308 +04:00 [INF] Content root path: D:\ATL\ToDoApp\ToDoApp\WebAPI
+2021-09-16 15:44:05.324 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44339/weatherforecast  
+2021-09-16 15:44:05.383 +04:00 [INF] Executing endpoint 'WebAPI.Controllers.WeatherForecastController.Get (WebAPI)'
+2021-09-16 15:44:05.433 +04:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[WebAPI.WeatherForecast] Get() on controller WebAPI.Controllers.WeatherForecastController (WebAPI).
+2021-09-16 15:44:05.447 +04:00 [INF] Executing ObjectResult, writing value of type 'WebAPI.WeatherForecast[]'.
+2021-09-16 15:44:05.507 +04:00 [INF] Executed action WebAPI.Controllers.WeatherForecastController.Get (WebAPI) in 67.597ms
+2021-09-16 15:44:05.511 +04:00 [INF] Executed endpoint 'WebAPI.Controllers.WeatherForecastController.Get (WebAPI)'
+2021-09-16 15:44:05.522 +04:00 [INF] Request finished in 202.9626ms 200 application/json; charset=utf-8
+2021-09-16 15:44:05.610 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44339/favicon.ico  
+2021-09-16 15:44:05.618 +04:00 [INF] Request finished in 8.4285ms 404 
+2021-09-16 15:44:34.221 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44339/wrapper  
+2021-09-16 15:44:34.223 +04:00 [INF] Request finished in 4.7956ms 404 
+2021-09-16 15:44:40.157 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44339/swagger  
+2021-09-16 15:44:40.168 +04:00 [INF] Request finished in 12.6154ms 302 
+2021-09-16 15:44:40.175 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44339/swagger/index.html  
+2021-09-16 15:44:40.483 +04:00 [INF] Request finished in 307.7767ms 200 text/html; charset=utf-8
+2021-09-16 15:44:41.103 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44339/swagger/v1/swagger.json  
+2021-09-16 15:44:41.904 +04:00 [INF] Request finished in 801.4192ms 200 application/json; charset=utf-8
+2021-09-16 15:44:57.601 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44339/api/Customers/getall  
+2021-09-16 15:44:57.605 +04:00 [INF] Executing endpoint 'WebAPI.Controllers.CustomersController.GetAll (WebAPI)'
+2021-09-16 15:44:57.609 +04:00 [INF] Route matched with {action = "GetAll", controller = "Customers"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAll() on controller WebAPI.Controllers.CustomersController (WebAPI).
+2021-09-16 15:45:00.042 +04:00 [INF] Executing ObjectResult, writing value of type 'Core.Utilities.Results.SuccessDataResult`1[[System.Collections.Generic.List`1[[Entities.DTOs.CustomerDto, Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2021-09-16 15:45:00.048 +04:00 [INF] Executed action WebAPI.Controllers.CustomersController.GetAll (WebAPI) in 2438.9ms
+2021-09-16 15:45:00.048 +04:00 [INF] Executed endpoint 'WebAPI.Controllers.CustomersController.GetAll (WebAPI)'
+2021-09-16 15:45:00.049 +04:00 [INF] Request finished in 2447.4773ms 200 application/json; charset=utf-8
+2021-09-16 15:52:57.813 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-16 15:52:57.854 +04:00 [INF] Hosting environment: Development
+2021-09-16 15:52:57.855 +04:00 [INF] Content root path: D:\ATL\ToDoApp\ToDoApp\WebAPI
+2021-09-16 15:52:57.903 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44339/weatherforecast  
+2021-09-16 15:52:57.958 +04:00 [INF] Executing endpoint 'WebAPI.Controllers.WeatherForecastController.Get (WebAPI)'
+2021-09-16 15:52:58.011 +04:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[WebAPI.WeatherForecast] Get() on controller WebAPI.Controllers.WeatherForecastController (WebAPI).
+2021-09-16 15:52:58.033 +04:00 [INF] Executing ObjectResult, writing value of type 'WebAPI.WeatherForecast[]'.
+2021-09-16 15:52:58.040 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44339/swagger  
+2021-09-16 15:52:58.086 +04:00 [INF] Request finished in 44.1436ms 302 
+2021-09-16 15:52:58.109 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44339/swagger/index.html  
+2021-09-16 15:52:58.123 +04:00 [INF] Executed action WebAPI.Controllers.WeatherForecastController.Get (WebAPI) in 103.6794ms
+2021-09-16 15:52:58.125 +04:00 [INF] Executed endpoint 'WebAPI.Controllers.WeatherForecastController.Get (WebAPI)'
+2021-09-16 15:52:58.380 +04:00 [INF] Request finished in 483.9938ms 200 application/json; charset=utf-8
+2021-09-16 15:52:58.400 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44339/favicon.ico  
+2021-09-16 15:52:58.407 +04:00 [INF] Request finished in 7.2353ms 404 
+2021-09-16 15:52:58.596 +04:00 [INF] Request finished in 486.6721ms 200 text/html; charset=utf-8
+2021-09-16 15:52:59.188 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44339/swagger/v1/swagger.json  
+2021-09-16 15:52:59.810 +04:00 [INF] Request finished in 621.7697ms 200 application/json; charset=utf-8
+2021-09-16 15:53:05.081 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44339/api/Customers/getall  
+2021-09-16 15:53:05.084 +04:00 [INF] Executing endpoint 'WebAPI.Controllers.CustomersController.GetAll (WebAPI)'
+2021-09-16 15:53:05.089 +04:00 [INF] Route matched with {action = "GetAll", controller = "Customers"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAll() on controller WebAPI.Controllers.CustomersController (WebAPI).
+2021-09-16 15:53:06.644 +04:00 [INF] Executing ObjectResult, writing value of type 'Core.Utilities.Results.SuccessDataResult`1[[System.Collections.Generic.List`1[[Entities.DTOs.CustomerDto, Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2021-09-16 15:53:06.647 +04:00 [INF] Executed action WebAPI.Controllers.CustomersController.GetAll (WebAPI) in 1557.6562ms
+2021-09-16 15:53:06.647 +04:00 [INF] Executed endpoint 'WebAPI.Controllers.CustomersController.GetAll (WebAPI)'
+2021-09-16 15:53:06.648 +04:00 [INF] Request finished in 1566.8751ms 200 application/json; charset=utf-8
+2021-09-16 15:53:37.132 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-16 15:53:37.147 +04:00 [INF] Hosting environment: Development
+2021-09-16 15:53:37.148 +04:00 [INF] Content root path: D:\ATL\ToDoApp\ToDoApp\WebAPI
+2021-09-16 15:53:37.156 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44339/weatherforecast  
+2021-09-16 15:53:37.200 +04:00 [INF] Executing endpoint 'WebAPI.Controllers.WeatherForecastController.Get (WebAPI)'
+2021-09-16 15:53:37.235 +04:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[WebAPI.WeatherForecast] Get() on controller WebAPI.Controllers.WeatherForecastController (WebAPI).
+2021-09-16 15:53:37.244 +04:00 [INF] Executing ObjectResult, writing value of type 'WebAPI.WeatherForecast[]'.
+2021-09-16 15:53:37.278 +04:00 [INF] Executed action WebAPI.Controllers.WeatherForecastController.Get (WebAPI) in 37.2955ms
+2021-09-16 15:53:37.284 +04:00 [INF] Executed endpoint 'WebAPI.Controllers.WeatherForecastController.Get (WebAPI)'
+2021-09-16 15:53:37.305 +04:00 [INF] Request finished in 155.0365ms 200 application/json; charset=utf-8
+2021-09-16 15:53:37.375 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44339/favicon.ico  
+2021-09-16 15:53:37.382 +04:00 [INF] Request finished in 7.1442ms 404 
+2021-09-16 15:53:40.601 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44339/swagger  
+2021-09-16 15:53:40.609 +04:00 [INF] Request finished in 7.9241ms 302 
+2021-09-16 15:53:40.614 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44339/swagger/index.html  
+2021-09-16 15:53:40.780 +04:00 [INF] Request finished in 165.8997ms 200 text/html; charset=utf-8
+2021-09-16 15:53:41.785 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44339/swagger/v1/swagger.json  
+2021-09-16 15:53:42.392 +04:00 [INF] Request finished in 607.4161ms 200 application/json; charset=utf-8
+2021-09-16 15:54:15.686 +04:00 [INF] Request starting HTTP/2.0 POST https://localhost:44339/api/Customers/add application/json 71
+2021-09-16 15:54:15.691 +04:00 [INF] Executing endpoint 'WebAPI.Controllers.CustomersController.Add (WebAPI)'
+2021-09-16 15:54:15.702 +04:00 [INF] Route matched with {action = "Add", controller = "Customers"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Add(Entities.Concrete.Customer) on controller WebAPI.Controllers.CustomersController (WebAPI).
+2021-09-16 15:55:24.288 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-16 15:55:24.301 +04:00 [INF] Hosting environment: Development
+2021-09-16 15:55:24.302 +04:00 [INF] Content root path: D:\ATL\ToDoApp\ToDoApp\WebAPI
+2021-09-16 15:55:24.308 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44339/weatherforecast  
+2021-09-16 15:55:24.340 +04:00 [INF] Executing endpoint 'WebAPI.Controllers.WeatherForecastController.Get (WebAPI)'
+2021-09-16 15:55:24.368 +04:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[WebAPI.WeatherForecast] Get() on controller WebAPI.Controllers.WeatherForecastController (WebAPI).
+2021-09-16 15:55:24.375 +04:00 [INF] Executing ObjectResult, writing value of type 'WebAPI.WeatherForecast[]'.
+2021-09-16 15:55:24.428 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44339/swagger  
+2021-09-16 15:55:24.459 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44339/swagger/index.html  
+2021-09-16 15:55:24.460 +04:00 [INF] Request finished in 17.9777ms 302 
+2021-09-16 15:55:24.461 +04:00 [INF] Executed action WebAPI.Controllers.WeatherForecastController.Get (WebAPI) in 65.1746ms
+2021-09-16 15:55:24.474 +04:00 [INF] Executed endpoint 'WebAPI.Controllers.WeatherForecastController.Get (WebAPI)'
+2021-09-16 15:55:24.498 +04:00 [INF] Request finished in 194.3413ms 200 application/json; charset=utf-8
+2021-09-16 15:55:24.548 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44339/favicon.ico  
+2021-09-16 15:55:24.559 +04:00 [INF] Request finished in 10.7325ms 404 
+2021-09-16 15:55:24.720 +04:00 [INF] Request finished in 260.9477ms 200 text/html; charset=utf-8
+2021-09-16 15:55:25.455 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44339/swagger/v1/swagger.json  
+2021-09-16 15:55:26.114 +04:00 [INF] Request finished in 659.4002ms 200 application/json; charset=utf-8
+2021-09-16 15:55:44.261 +04:00 [INF] Request starting HTTP/2.0 POST https://localhost:44339/api/Customers/add application/json 74
+2021-09-16 15:55:44.264 +04:00 [INF] Executing endpoint 'WebAPI.Controllers.CustomersController.Add (WebAPI)'
+2021-09-16 15:55:44.281 +04:00 [INF] Route matched with {action = "Add", controller = "Customers"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Add(Entities.Concrete.Customer) on controller WebAPI.Controllers.CustomersController (WebAPI).
+2021-09-16 16:04:42.582 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-16 16:04:42.596 +04:00 [INF] Hosting environment: Development
+2021-09-16 16:04:42.597 +04:00 [INF] Content root path: D:\ATL\ToDoApp\ToDoApp\WebAPI
+2021-09-16 16:04:42.605 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44339/weatherforecast  
+2021-09-16 16:04:42.636 +04:00 [INF] Executing endpoint 'WebAPI.Controllers.WeatherForecastController.Get (WebAPI)'
+2021-09-16 16:04:42.666 +04:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[WebAPI.WeatherForecast] Get() on controller WebAPI.Controllers.WeatherForecastController (WebAPI).
+2021-09-16 16:04:42.673 +04:00 [INF] Executing ObjectResult, writing value of type 'WebAPI.WeatherForecast[]'.
+2021-09-16 16:04:42.712 +04:00 [INF] Executed action WebAPI.Controllers.WeatherForecastController.Get (WebAPI) in 40.5819ms
+2021-09-16 16:04:42.714 +04:00 [INF] Executed endpoint 'WebAPI.Controllers.WeatherForecastController.Get (WebAPI)'
+2021-09-16 16:04:42.724 +04:00 [INF] Request finished in 122.5323ms 200 application/json; charset=utf-8
+2021-09-16 16:04:42.758 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44339/favicon.ico  
+2021-09-16 16:04:42.768 +04:00 [INF] Request finished in 9.3617ms 404 
+2021-09-16 16:04:46.635 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44339/swagger  
+2021-09-16 16:04:46.643 +04:00 [INF] Request finished in 9.295ms 302 
+2021-09-16 16:04:46.649 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44339/swagger/index.html  
+2021-09-16 16:04:46.832 +04:00 [INF] Request finished in 183.2965ms 200 text/html; charset=utf-8
+2021-09-16 16:04:47.460 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44339/swagger/v1/swagger.json  
+2021-09-16 16:04:48.084 +04:00 [INF] Request finished in 623.7674ms 200 application/json; charset=utf-8
+2021-09-16 16:05:13.361 +04:00 [INF] Request starting HTTP/2.0 POST https://localhost:44339/api/Customers/add application/json 74
+2021-09-16 16:05:13.362 +04:00 [INF] Executing endpoint 'WebAPI.Controllers.CustomersController.Add (WebAPI)'
+2021-09-16 16:05:13.376 +04:00 [INF] Route matched with {action = "Add", controller = "Customers"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Add(Entities.Concrete.Customer) on controller WebAPI.Controllers.CustomersController (WebAPI).
+2021-09-16 16:05:25.169 +04:00 [INF] Executed action WebAPI.Controllers.CustomersController.Add (WebAPI) in 11792.3092ms
+2021-09-16 16:05:25.173 +04:00 [INF] Executed endpoint 'WebAPI.Controllers.CustomersController.Add (WebAPI)'
+2021-09-16 16:05:25.178 +04:00 [ERR] An unhandled exception has occurred while executing the request.
+System.Exception: log exception
+   at Business.Concrete.CustomerManager.Add(Customer customer) in D:\ATL\ToDoApp\ToDoApp\Business\Concrete\CustomerManager.cs:line 36
+   at Castle.Proxies.Invocations.ICustomerService_Add.InvokeMethodOnTarget()
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Core.Utilities.Interceptors.MethodInterception.Intercept(IInvocation invocation) in D:\ATL\ToDoApp\ToDoApp\Core\Utilities\Interceptors\MethodInterception.cs:line 20
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ICustomerServiceProxy.Add(Customer customer)
+   at WebAPI.Controllers.CustomersController.Add(Customer customer) in D:\ATL\ToDoApp\ToDoApp\WebAPI\Controllers\CustomersController.cs:line 47
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-09-16 16:05:25.361 +04:00 [INF] Request finished in 12006.69ms 500 text/plain
